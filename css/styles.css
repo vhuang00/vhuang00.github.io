@@ -4683,7 +4683,7 @@ a.badge:hover, a.badge:focus {
 
 .badge-primary {
   color: #fff;
-  background-color: #bd5d38;
+  background-color: #7d38bd;
 }
 a.badge-primary:hover, a.badge-primary:focus {
   color: #fff;
@@ -4962,7 +4962,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   color: #fff;
   text-align: center;
   white-space: nowrap;
-  background-color: #bd5d38;
+  background-color: #7d38bd;
   transition: width 0.6s ease;
 }
 @media (prefers-reduced-motion: reduce) {
@@ -5043,8 +5043,8 @@ a.badge-dark:focus, a.badge-dark.focus {
 .list-group-item.active {
   z-index: 2;
   color: #fff;
-  background-color: #bd5d38;
-  border-color: #bd5d38;
+  background-color: #7d38bd;
+  border-color: #7d38bd;
 }
 .list-group-item + .list-group-item {
   border-top-width: 0;
@@ -6075,7 +6075,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: #7d38bd !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6203,7 +6203,7 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-  border-color: #bd5d38 !important;
+  border-color: #7d38bd !important;
 }
 
 .border-secondary {
@@ -9777,7 +9777,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: #7d38bd !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10079,7 +10079,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #7d38bd;
 }
 
 .dev-icons {
